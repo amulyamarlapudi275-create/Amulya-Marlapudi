@@ -1,0 +1,32 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+.dart_tool/
+.packages/
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Certificates and private keys
+*.pem
+*.key
+*.p12
+*.pfx
