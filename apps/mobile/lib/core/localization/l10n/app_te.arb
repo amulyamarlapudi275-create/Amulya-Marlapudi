@@ -1,0 +1,16 @@
+{
+  "@@locale": "te",
+  "appTitle": "షాలేము ప్రార్థనా మందిరం",
+  "devBannerTitle": "తాత్కాలిక పునాది స్క్రీన్",
+  "devBannerSubtitle": "ఆర్కిటెక్చర్ నిర్ధారణ స్క్రీన్ — ఇది తుది హోమ్ స్క్రీన్ కాదు",
+  "selectLanguage": "భాషను ఎంచుకోండి",
+  "english": "English",
+  "telugu": "తెలుగు",
+  "themeMode": "థీమ్ మోడ్",
+  "themeSystem": "సిస్టమ్",
+  "themeLight": "లైట్",
+  "themeDark": "డార్క్",
+  "officialColorsTitle": "అధికారిక షాలేము రంగులు",
+  "sampleTeluguScripture": "యెహోవా నా కాపరి; నాకు లేమి కలుగదు.",
+  "sampleEnglishScripture": "The Lord is my shepherd; I shall not want."
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shalem Prayer House",
+  "devBannerTitle": "TEMPORARY FOUNDATION SCREEN",
+  "devBannerSubtitle": "Verification workbench — not the final home screen",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "telugu": "Telugu",
+  "themeMode": "Theme Mode",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "officialColorsTitle": "Official Shalem Colors",
+  "sampleTeluguScripture": "యెహోవా నా కాపరి; నాకు లేమి కలుగదు.",
+  "sampleEnglishScripture": "The Lord is my shepherd; I shall not want."
+}
